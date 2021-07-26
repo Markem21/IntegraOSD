@@ -1,4 +1,4 @@
-Write-Host  -ForegroundColor Cyan "Starting IntegraOSD's Custom OSDCloud ..."
+Write-Host  -ForegroundColor Cyan "Starting Sheiling Schools OSD Custom OSDCloud ..."
 Start-Sleep -Seconds 5
 
 #Change Display Resolution for Virtual Machine
